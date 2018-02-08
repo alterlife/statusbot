@@ -13,10 +13,10 @@ To use this, you will need to at the minimum:
 
 1. Update the files under the templates folder to your taste
 2. Update the following parameters in sendmail.py:
-  2.1 <pathtoyourcalender>
-  2.2 <yourmailserver>
-  2.3 <youremail@yourcompany.com> (sender)
-  2.4 <yourname> in the subject string
-  2.5 The list of recipients: ["<yourmanager@yourcompany.com>", "<yourteam@yourcompany.com>"] 
+  * <pathtoyourcalender>
+  * <yourmailserver>
+  * <youremail@yourcompany.com> (sender)
+  * <yourname> in the subject string
+  * The list of recipients: ["<yourmanager@yourcompany.com>", "<yourteam@yourcompany.com>"] 
 
-After you've done this, running sendmail.py should send out a status email.
+After you've done these, running sendmail.py should send out a status email.
