@@ -13,7 +13,7 @@ To use this, you will need to at the minimum:
 
 1. Update the files under the templates folder to your taste
 2. Update the following parameters in sendmail.py:
-  * <pathtoyourcalender>
+  * `<pathtoyourcalender>`
   * <yourmailserver>
   * <youremail@yourcompany.com> (sender)
   * <yourname> in the subject string
